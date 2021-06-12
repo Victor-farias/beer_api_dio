@@ -1,4 +1,4 @@
-package com.one.digital.innovation.beerstock.Controller;
+package com.one.digital.innovation.beerstock.controller;
 
 import com.one.digital.innovation.beerstock.dto.BeerDTO;
 import com.one.digital.innovation.beerstock.dto.QuantityDTO;
